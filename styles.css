@@ -1,0 +1,10 @@
+body {
+    background-color: red;
+}
+
+div {
+    left: 50%;
+    width: 250px; /* Largura desejada */
+    position: relative;
+    margin-left: -125px;   /* menos metade da largura desejada */ 
+}
